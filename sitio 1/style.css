@@ -1,0 +1,45 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    color: #fff;
+    margin-top: 50px;
+    background-image: linear-gradient(0.25turn, #000080, #008080, #000080);
+}
+
+a {
+    color: #ff8000;
+}
+
+.titulo {
+    color: white;
+    height: 50px;
+    width: 80%;
+    margin: 0 auto;
+    padding: 0;
+    text-align: center;
+}
+
+.cuadro {
+    height: 50px;
+    width: 400px;
+    margin: 0 auto;
+    padding: 0;
+    text-align: center;
+}
+
+.puntos {
+    margin: 2rem 0;
+    text-align: center;
+}
+
+footer {
+    padding-top: 10px;
+    width: 100vw;
+    border-top: 1px solid white;
+    position: absolute;
+    bottom: 50;
+    text-align: center;
+}
